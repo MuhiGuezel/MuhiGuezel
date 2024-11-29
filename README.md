@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm Muhi Güzel! 
 
-![Header Image](https://via.placeholder.com/1200x300?text=Your+Custom+Banner)
+![Header Image]([https://via.placeholder.com/1200x300?text=Your+Custom+Banner](https://static.vecteezy.com/system/resources/previews/017/383/808/non_2x/coding-system-minimal-infographic-banner-vector.jpg))
 
 ## 🚀 About Me
-I'm a **[Your Role/Title]** with a passion for **[Your Interests]**. I love building **[Mention Specialties]** and exploring **[Technologies/Fields]**.
 
 - 🔭 Currently working on my computer science degree.
 - 🌱 Learning ML, LLM.
