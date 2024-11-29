@@ -5,10 +5,10 @@
 ## 🚀 About Me
 I'm a **[Your Role/Title]** with a passion for **[Your Interests]**. I love building **[Mention Specialties]** and exploring **[Technologies/Fields]**.
 
-- 🔭 Currently working on **[Your Project]**.
-- 🌱 Learning **[New Skill or Technology]**.
-- 💬 Ask me about **[Expertise]**.
-- ⚡ Fun fact: **[Your Fun Fact]**.
+- 🔭 Currently working on my computer science degree.
+- 🌱 Learning ML, LLM.
+- 💬 Ask me about nothing.
+- ⚡ Fun fact: I am boring.
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,12 +18,11 @@ I'm a **[Your Role/Title]** with a passion for **[Your Interests]**. I love buil
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhiguezel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiguezel&layout=compact&theme=radical)
 
 ## 🏆 Achievements
-- 🥇 **[Your Award or Certification]**.
-- 🚀 **[Major Project or Milestone]**.
+- 🚀 PLCEV - Programmable Logic Controlled Elevator
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
