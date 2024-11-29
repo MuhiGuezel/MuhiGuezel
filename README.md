@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Muhi Güzel! 
 
-![Header Image]([https://via.placeholder.com/1200x300?text=Your+Custom+Banner](https://static.vecteezy.com/system/resources/previews/017/383/808/non_2x/coding-system-minimal-infographic-banner-vector.jpg))
-
 ## 🚀 About Me
 
 - 🔭 Currently working on my computer science degree.
@@ -22,6 +20,8 @@
 
 ## 🏆 Achievements
 - 🚀 PLCEV - Programmable Logic Controlled Elevator
+- Automated Storage System
+
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
